@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a List All the Notes API
+title: Add a List All to the Notes API
 date: 2017-01-01 00:00:00
 lang: en
 ref: add-a-list-all-the-notes-api
